@@ -1,0 +1,12 @@
+.wrapper{
+	width: 100vw;
+	height: 100vh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.panel{
+	width: 250px;
+	height: 350px;
+	border: 1px solid blue;
+}
